@@ -1,4 +1,4 @@
-h1, h2, h4, p, .designed, #menu, .link {
+h1, h2, h4, p, .designed, .menu, #link {
 font-family: Helvetica;
 text-align: center;
 }
@@ -13,7 +13,7 @@ font-weight: bold;
 color: white;
 }
 
-#menu, .link {
+.menu, #link {
 font-size: 18px;
 color: white;
 }
@@ -39,7 +39,7 @@ p {
 font-size: 14px;
 }
 
-#footer {
+.footer {
 font-size: 11px;
 color: white;
 background-color: dimgray;
