@@ -1,4 +1,4 @@
-h1, h2, h4, p {
+h1, h2, h4, p, .designed {
 font-family: Helvetica;
 text-align: center;
 }
@@ -44,4 +44,8 @@ font-size: 11px;
 color: white;
 background-color: dimgray;
 text-align: left;
+}
+
+#process, #work, #contact {
+  text-align: center;
 }
