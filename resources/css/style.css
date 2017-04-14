@@ -13,7 +13,7 @@ font-weight: bold;
 color: white;
 }
 
-#menu {
+#menu, .link {
 font-size: 18px;
 color: white;
 }
